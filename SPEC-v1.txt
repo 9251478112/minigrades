@@ -1,0 +1,12 @@
+The system must support a command-line interface for managing student grades.
+Contributor: M-YEMIN MEVALDI (9251478112)
+
+CORE FUNCTIONALITY:
+1. init: 
+   - Creates a directory named '.minigrades' and an empty 'grades.dat' file.
+   - Returns 'Initialized empty grade system in .minigrades/' on success.
+2. add <name> <grade>:
+   - Appends record to '.minigrades/grades.dat' in format: 'id|name|grade'.
+   - Returns 'Added grade #<id> for <name>' on success.
+STUBS:
+- list, update, delete: Must return "Command '<command>' will be implemented in future weeks."
