@@ -1,7 +1,13 @@
 {
-  "name": "minigrades",
-  "contributor_id": "9251478112",
-  "contributor_name": "M-YEMIN MEVALDI",
-  "description": "Student grade management system with auto-increment IDs, date tracking, and CRUD operations.",
-  "commands": ["init", "add", "list", "update", "delete"]
+  "assignment_no": "5.2",
+  "project_name": "minigrades",
+  "version": "2.0",
+  "student_id": "9251478112",
+  "student_name": "M-YEMIN MEVALDI",
+  "description": "Ödev 5.2: Otomatik ID, Tarih damgası ve Raporlama özellikleri içeren V2 sürümü.",
+  "tasks_completed": [
+    "Otomatik ID sistemi kuruldu",
+    "Tarih alanı eklendi",
+    "Report komutu ile dosya çıktısı sağlandı"
+  ]
 }
