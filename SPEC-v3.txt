@@ -1,0 +1,8 @@
+SPEC-v3.txt - MiniGrades V3 Geliştirme Planı
+Öğrenci: M. Yemin Mevaldi (9251478112)
+
+Bu sürümde (V3) sisteme eklenen temel özellikler:
+1. Otomatik ID Yönetimi: 'add' komutu artık manuel ID istemez, ID'yi otomatik atar.
+2. Veri Formatı Güncellemesi: Kayıtlara otomatik tarih (YYYY-MM-DD) alanı eklendi.
+3. Raporlama Modülü: Tüm verileri 'report.txt' dosyasına döken fonksiyon eklendi.
+4. CRUD İyileştirmesi: Mevcut 'update' ve 'delete' komutları yeni ID sistemine uyarlandı.
