@@ -4,10 +4,6 @@
 
 Bu proje, Ödev 5.1'de geliştirilen temel sistemin üzerine 3 büyük yenilik eklenerek Ödev 5.2 (V2) standartlarına getirilmiştir.
 
-### 🚀 V2 İle Gelen Yenilikler
-1. **Otomatik ID (Auto-Increment):** Kullanıcıların manuel ID girmesi zorunluluğu kaldırıldı. Sistem otomatik olarak bir sonraki ID'yi atar.
-2. **Tarih Damgası (Timestamp):** Her kayıt yapıldığında o günün tarihi otomatik olarak veritabanına işlenir.
-3. **Raporlama Sistemi:** `python minigrades.py report` komutu eklendi. Bu komut `.minigrades/report.txt` adında bir özet dosyası oluşturur.
 
 ### 🛠 Kullanım Örneği
 ```bash
