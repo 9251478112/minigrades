@@ -1,8 +1,7 @@
-SPEC-v2.txt - MiniGrades V2 Geliştirme Planı
-Öğrenci: M. Yemin Mevaldi (9251478112)
+The system is updated with full CRUD functionality and enhanced data tracking.
+Contributor: M-YEMIN MEVALDI (9251478112)
 
-Bu sürümde (V2) sisteme eklenen temel özellikler:
-1. Otomatik ID Yönetimi: 'add' komutu artık manuel ID istemez, ID'yi otomatik atar.
-2. Veri Formatı Güncellemesi: Kayıtlara otomatik tarih (YYYY-MM-DD) alanı eklendi.
-3. Raporlama Modülü: Tüm verileri 'report.txt' dosyasına döken fonksiyon eklendi.
-4. CRUD İyileştirmesi: Mevcut 'update' ve 'delete' komutları yeni ID sistemine uyarlandı.
+CHANGES FROM V1:
+1. Data Format: Each record follows 'id|student_name|grade|date'.
+2. Date: System automatically appends current date (YYYY-MM-DD).
+3. ID Logic: ID is calculated as 'highest_existing_id + 1'.
