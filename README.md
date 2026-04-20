@@ -2,7 +2,6 @@
 **Öğrenci:** M. Yemin Mevaldi  
 **Numara:** 9251478112
 
-### 🛠 Kullanım Örneği
 ```bash
 python minigrades.py init
 python minigrades.py add "Öğrenci Adı" "Notu"
